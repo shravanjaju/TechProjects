@@ -14,6 +14,7 @@ import {
   import React, { useState } from "react";
   import Home from "../Home/Home" ;
   import "./Sidebar.css";
+  import './../new.css'
   
   function Sidebar() {
     const [active, setActive] = useState("Home");

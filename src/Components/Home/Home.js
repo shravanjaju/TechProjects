@@ -15,6 +15,7 @@ import {
   import trends from "../Data/trend.json";
   import Feed from "../Feed/Feed"
   import Trend from "../Trend/Trend";
+  import './../new.css'
   
   function Home() {
     return (
